@@ -1,0 +1,109 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 8108 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Multimedia\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Multimedia/Projects/MiniJuego
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50061
+Successfully changed project path to: D:/Multimedia/Projects/MiniJuego
+D:/Multimedia/Projects/MiniJuego
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path D:/Multimedia/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Multimedia/Projects/MiniJuego/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     4054 MB
+    Driver:   26.20.100.7925
+Initialize mono
+Mono path[0] = 'D:/Multimedia/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Multimedia/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Multimedia/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Multimedia/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Multimedia/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001551 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.355 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 2.860000 ms (FindLiveObjects: 0.191400 ms CreateObjectMapping: 0.060400 ms MarkObjects: 2.488600 ms  DeleteObjects: 0.118000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Material/Nivel2.1.mat
+  artifactKey: Guid(243add257b3e0cb4d8be056ec28457a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Nivel2.1.mat using Guid(243add257b3e0cb4d8be056ec28457a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901058f80e229030cc94ba1dc976d1f6') in 0.341847 seconds
+  Import took 0.345474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Material/Nivel2.mat
+  artifactKey: Guid(ac197805b3f65574787ebc5977a5030b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Nivel2.mat using Guid(ac197805b3f65574787ebc5977a5030b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b83a80d54a69c3ae9b7e79263bc0390') in 0.111727 seconds
+  Import took 0.115267 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000850 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1606.
+Total: 2.244700 ms (FindLiveObjects: 0.147800 ms CreateObjectMapping: 0.045700 ms MarkObjects: 1.984500 ms  DeleteObjects: 0.062800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
